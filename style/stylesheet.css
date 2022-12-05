@@ -1,0 +1,30 @@
+header{
+background-color: #ff0000;
+width: 100%;
+height: 100px;
+}
+
+table{width: 100%; height: 100%;}
+img{width: 75px; height: 75px;}
+#green {background-color: green; width: 100px; height:100px; color: red;}
+#red {background-color: red; width: 100px; height:100px; color: blue;}
+#blue {background-color: blue; width: 100px; height:100px; color: yellow:}
+#yellow {background-color: yellow; width: 100px; height:100px; color: green;}
+#orange {background-color: orange; width: 100px; height:100px; color: brown;}
+#purple {background-color: purple; width: 100px; height:100px; color:pink;}
+#pink {background-color: pink; width: 100px; height:100px; color: purple;}
+#brown {background-color: brown; width: 100px; height:100px; color: orange;}
+#fuchsia {background-color: fuchsia; width: 100px; height:100px;}
+#aqua	{background-color: aqua; width: 100px; height:100px;}
+#maroon	{background-color:maroon; width: 100px; height:100px;}
+#navy {background-color: navy; width: 100px; height:100px;}
+#olive {background-color: olive; width: 100px; height:100px;}
+#teal	{background-color: teal; width: 100px; height:100px;}
+#lightblue {background-color: lightblue; width: 100px; height:100px;}
+#gray	{background-color: gray; width: 100px; height:100px;}
+
+footer{
+background-color: #0000ff;
+width: 100%;
+height: 100px;
+}
